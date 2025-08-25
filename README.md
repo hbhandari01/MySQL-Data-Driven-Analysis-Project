@@ -1,4 +1,4 @@
-# 📊 Data Driven Analysis Project (SQL)
+# 📊 Business Insights from Cars Database
 
 This repository contains SQL projects focused on data-driven analysis of a business database. The goal of these projects is to extract actionable insights about customers, employees, orders, products, and sales performance using SQL queries, stored procedures, and triggers.
 
